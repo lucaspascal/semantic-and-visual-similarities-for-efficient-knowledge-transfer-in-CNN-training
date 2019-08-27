@@ -6,4 +6,4 @@ This repository the constitution of the dataset used in ...
 * train.txt : The 81000 images selected for the training set (900 per synset).
 * test.txt : The 9000 images selected for the test set (100 per synset).
 
-For more details about the synsets' and images' selection, please refer to the paper.
+For more details about the synsets' and images' selection process, please refer to the paper.
